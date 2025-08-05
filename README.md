@@ -7,3 +7,4 @@
 5. String Function
 6. if else and if elseif else
 7. Switch case
+8. Loops (for,while,Do whiel)
