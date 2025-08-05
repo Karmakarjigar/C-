@@ -6,3 +6,4 @@
 4. Maths function
 5. String Function
 6. if else and if elseif else
+7. Switch case
